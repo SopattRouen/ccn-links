@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "YOUR_TEAM_ID.com.camcyber.ccn",
+        "appID": "7HF722BNJD.com.camcyber.ccn.dev",
         "paths": [ "/user/*", "/login", "/home" ]
       }
     ]

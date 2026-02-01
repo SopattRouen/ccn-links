@@ -1,14 +1,17 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.camcyber.ccn",
-            "sha256_cert_fingerprints": [
-                "AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:00"
-            ]
+    [
+        {
+            "relation": [
+                "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                "namespace": "android_app",
+                "package_name": "com.camcyber.ccn.dev",
+                "sha256_cert_fingerprints": [
+                    "DE:C8:B8:ED:4D:16:E5:03:89:B3:14:09:D1:CE:ED:FC:E6:F9:C1:FF:01:F6:74:1C:25:CB:85:58:48:C3:7C:3E",
+                    "EE:A8:B3:19:D1:62:B3:0C:B2:77:29:F9:80:03:33:D4:47:09:2A:5A:4A:21:01:F9:48:19:FB:A7:F4:2C:AB:B7"
+                ]
+            }
         }
-    }
+    ]
 ]
